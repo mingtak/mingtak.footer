@@ -1,0 +1,6 @@
+<div i18n:domain="plone"
+     id="portal-footer">
+  <div>© Copyright 2015-<tal:year replace="view/year">2015</tal:year>
+               by <span class="grey">Funlog</span>.com - <a href="/site/private" i18n:translate="">private policy.</a>
+  </div>
+</div>

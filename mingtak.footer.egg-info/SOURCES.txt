@@ -1,0 +1,16 @@
+README.txt
+setup.cfg
+setup.py
+mingtak/__init__.py
+mingtak.footer.egg-info/PKG-INFO
+mingtak.footer.egg-info/SOURCES.txt
+mingtak.footer.egg-info/dependency_links.txt
+mingtak.footer.egg-info/entry_points.txt
+mingtak.footer.egg-info/namespace_packages.txt
+mingtak.footer.egg-info/not-zip-safe
+mingtak.footer.egg-info/paster_plugins.txt
+mingtak.footer.egg-info/requires.txt
+mingtak.footer.egg-info/top_level.txt
+mingtak/footer/__init__.py
+mingtak/footer/footer.py
+mingtak/footer/tests.py
